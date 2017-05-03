@@ -30,10 +30,6 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # Jekyll Settings
 
 defaults:
-  -
-    values:
-      layout: "project"
-      header-img: "img/home-bg.jpg"
 
 # Prose Settings
 prose:
