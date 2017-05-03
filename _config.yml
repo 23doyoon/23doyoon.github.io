@@ -7,8 +7,8 @@ url: "https://23doyoon.github.io"
 
 
 # Secondary Parameters
-baseurl: "/"
-header-img: /img/home-bg.jpg
+baseurl: ""
+header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
