@@ -15,7 +15,7 @@ logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 # Tertiary Parameters
 github_username:  23doyoon
 project_repository: 23doyoon.github.io
-disqus_shortname: project-pages
+disqus_shortname:
 g-analytics: UA-98453029-1
 altmetric: true
 
