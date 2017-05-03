@@ -1,5 +1,5 @@
 ---
-layout:     plysurface
+layout:     post
 title:      Hello blog
 author:     Ahmet Cecen
 tags: 		plysurface visualization template
